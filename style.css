@@ -1,0 +1,43 @@
+h1 {
+  background-color: black;
+  color: white;
+}
+
+h2 {
+  background-color: black;
+  color: red;
+  font-style: italic;
+}
+
+h3 {
+  background-color: black;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.invalid-scorecard {
+  color: red;
+}
+
+.valid-scorecard {
+  color: green;
+}
+
+.signature-alert {
+  color: red;
+}
+
+.signed-card {
+  color: green;
+}
+
+.date-alert {
+  color: red;
+}
+
+.date-valid {
+  color: green;
+}
