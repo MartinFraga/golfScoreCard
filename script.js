@@ -62,7 +62,7 @@ if (scores) {
 let tempValue = '';
 
 // Consumo API openWeather
-const apiKey = "067697ea04348d667b4142aba9aecfa5";
+const apiKey = "??";
 const city = "Nordelta";
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
 
